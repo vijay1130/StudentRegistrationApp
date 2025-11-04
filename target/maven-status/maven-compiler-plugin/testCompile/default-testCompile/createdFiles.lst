@@ -1,0 +1,4 @@
+com\vijay\entity\EntityTest.class
+com\vijay\service\EnrollmentServiceTest.class
+com\vijay\service\CourseServiceTest.class
+com\vijay\StudentRegistrationAppApplicationTests.class
